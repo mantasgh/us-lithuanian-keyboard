@@ -35,6 +35,14 @@
 3. Go to *System Settings > Keyboard > Input Sources > Edit... > [+] > Others*.
 4. Add the **U.S. - Lithuanian** keyboard layout.
 
+## Preview
+
+U.S. layout:<br /><img src="./assets//us-lithuanian.png" width="50%" alt="Default">
+
+Lithuanian lower case letters with `⌥ option` modifier:<br /><img src="./assets//us-lithuanian-option.png" width="50%" alt="Lower case">
+
+Lithuanian upper case letters with `⌥ option` + `⇧ shift` modifiers:<br /><img src="./assets//us-lithuanian-option-shift.png" width="50%" alt="Upper case">
+
 ## Other
 
 Created using [Ukelele](https://software.sil.org/ukelele/).
